@@ -1,0 +1,17 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+/lib/
+/classes/
+.lein-deps-sum
+.lein-plugins/
+.lein-failures
+fbi_api.log

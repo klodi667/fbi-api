@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/fbi-api.jar clojure.main -m fbi-api.core
